@@ -163,19 +163,19 @@
         text-decoration: none;
     }
 
-    .um {
+    .grid_dois {
         grid-area: dois;
     }
 
-    .dois {
+    .grid_tres {
         grid-area: tres;
     }
 
-    .tres{
+    .grid_quatro{
         grid-area: quatro;
     }
     
-    .quatro{
+    .grid_cinco{
         grid-area: cinco;
     }
 }
